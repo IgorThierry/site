@@ -1,3 +1,5 @@
+import { Title } from '../styles/pages/Home';
+
 export default function Home() {
-  return <h1>hello</h1>;
+  return <Title>hello</Title>;
 }
